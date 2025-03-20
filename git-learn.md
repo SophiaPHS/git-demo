@@ -5,3 +5,5 @@ master test
 hot-fix test
 
 pull test
+
+clone test
